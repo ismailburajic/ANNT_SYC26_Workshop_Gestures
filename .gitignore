@@ -1,9 +1,6 @@
-Plan.pdf
+venv/
+__pycache__/
+.ipynb_checkpoints/
 
-/.venv/
-
-/Data/
-
-/Data_2/
-
-gesture_recognition_final.h5
+Data_2/
+gesture_model.h5
